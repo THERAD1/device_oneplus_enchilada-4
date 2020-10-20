@@ -27,6 +27,11 @@ $(call inherit-product, vendor/evolution/config/common_full_phone.mk)
 # Official
 EVO_BUILD_TYPE := OFFICIAL
 
+# Maintainer
+EVO_DONATE_URL := https://www.paypal.com/paypalme/ChanduDyavanapelli
+EVO_MAINTAINER := Chandu
+EVO_SUPPORT_URL := https://t.me/EvolutionXOnePlus
+
 # Boot Animation
 TARGET_BOOT_ANIMATION_RES := 1080
 
